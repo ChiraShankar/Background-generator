@@ -25,3 +25,9 @@ h3 {
     letter-spacing: 0.01em;
 
 }
+button{
+border-top-left-radius:25px;
+border-top-right-radius:25px;
+border-bottom-right-radius:25px;
+border-bottom-left-radius:25px;
+}
